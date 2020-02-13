@@ -12,6 +12,10 @@ Create a copy of the .env.example file:
   
 Populate the values for the environment variables stored in .env as required.  
 Note: `JWT_SECRET` must be populated for the API authentication tokens to be correctly created and decoded.  
+  
+Run the following to download code dependencies:  
+`composer install`
+
 
 ### Running the application locally  
   
